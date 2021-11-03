@@ -1,5 +1,5 @@
 {
-  "name": "aplicacion",
+  "name": "practica_profesionalizante_3",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -7,9 +7,14 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
-    "vue": "^3.0.0"
+    "@popperjs/core": "^2.10.1",
+    "bootstrap": "^5.1.1",
+    "firebase": "^8.7.1",
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.0-0"
   },
   "devDependencies": {
+    "@vue/cli-plugin-router": "^4.5.13",
     "@vue/cli-service": "~4.5.0",
     "@vue/compiler-sfc": "^3.0.0"
   }
