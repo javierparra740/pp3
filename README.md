@@ -19,4 +19,4 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Firebase Configuration
-In firebase.js file, you can specify configuration of your project
+In serviceCard.js file, you can specify configuration of your project
